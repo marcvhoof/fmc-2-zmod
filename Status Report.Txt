@@ -1,0 +1,44 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [version 1.PrjPcb]
+   Generated File[version 1_Copper_Signal_Top.gbr]
+   Generated File[version 1_Copper_Signal_1.gbr]
+   Generated File[version 1_Copper_Signal_2.gbr]
+   Generated File[version 1_Copper_Signal_Bot.gbr]
+   Generated File[version 1_Pads_Bot.gbr]
+   Generated File[version 1_Pads_Top.gbr]
+   Generated File[version 1_Paste_Bot.gbr]
+   Generated File[version 1_Legend_Bot.gbr]
+   Generated File[version 1_Soldermask_Bot.gbr]
+   Generated File[version 1_Legend_Top.gbr]
+   Generated File[version 1_Paste_Top.gbr]
+   Generated File[version 1_Soldermask_Top.gbr]
+   Generated File[version 1_Keep-out.gbr]
+   Generated File[version 1_Mechanical_4.gbr]
+   Generated File[version 1_Mechanical_20.gbr]
+   Generated File[version 1_Mechanical_2.gbr]
+   Generated File[version 1_Mechanical_14.gbr]
+   Generated File[version 1_Mechanical_8.gbr]
+   Generated File[version 1_Mechanical_1.gbr]
+   Generated File[version 1_Mechanical_3.gbr]
+   Generated File[version 1_Mechanical_7.gbr]
+   Generated File[version 1_Mechanical_15.gbr]
+   Generated File[version 1_Mechanical_13.gbr]
+   Generated File[version 1_Mechanical_11.gbr]
+   Generated File[version 1_Mechanical_6.gbr]
+   Generated File[version 1_Mechanical_5.gbr]
+   Generated File[version 1_Mechanical_12.gbr]
+   Generated File[version 1_Profile.gbr]
+   Generated File[version 1_NPTH_Drill.gbr]
+   Generated File[version 1_PTH_Drill.gbr]
+   Generated File[version 1_Drawing_1.gbr]
+   Generated File[version 1_Drillmap_1.gbr]
+   Generated File[version 1.RUL]
+   Generated File[version 1.EXTREP]
+   Generated File[version 1.REP]
+
+
+Files Generated   : 35
+Documents Printed : 0
+
+Finished Output Generation At 3:01:09 PM On 7/17/2021

@@ -1,0 +1,34 @@
+Altium Designer Pick and Place Locations,,,,,,,,,,,
+D:\Work\_Fiverr\marcvanh\Connector board\res\FMC ZMOD ADAPTER\Imported version 1.PrjPcb\Project Outputs for version 1\Pick Place for version 1.csv,,,,,,,,,,,
+,,,,,,,,,,,
+========================================================================================================================,,,,,,,,,,,
+File Design Information:,,,,,,,,,,,
+,,,,,,,,,,,
+Date:       05/05/21,,,,,,,,,,,
+Time:       20:09,,,,,,,,,,,
+Revision:   Not in VersionControl,,,,,,,,,,,
+Variant:    No variations,,,,,,,,,,,
+Units used: mm,,,,,,,,,,,
+,,,,,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mm),Center-Y(mm),Rotation,Description,Ref-X(mm),Ref-Y(mm),Pad-X(mm),Pad-Y(mm)
+,Comment,TopLayer,MOUNTING_HOLE_3.2MM,4,4,0,,4,4,4,4
+,Comment,TopLayer,MOUNTING_HOLE_3.2MM,47,4,0,,47,4,47,4
+,Comment,TopLayer,MOUNTING_HOLE_3.2MM,47,88,0,,47,88,47,88
+,Comment,TopLayer,MOUNTING_HOLE_3.2MM,4,88,0,,4,88,4,88
+U2,MC78M05BDTRKG,TopLayer,DPAK,16.8703,25.6711,180,IC REG LINEAR 5V 500MA DPAK    Manufacturer's datasheet,16.8703,25.6711,13.2803,27.9561
+U1,MC78M05BDTRKG,TopLayer,DPAK,22,71,270,IC REG LINEAR 5V 500MA DPAK    Manufacturer's datasheet,22,71,19.715,67.41
+R5,2.2K,TopLayer,R0603,30,28,270,Generic Resistor Package,30,28,30,28.85
+R4,2.2K,TopLayer,R0603,30,33.5,90,Generic Resistor Package,30,33.5,30,32.65
+R3,210K 1%,TopLayer,R0603,42,28,270,Generic Resistor Package,42,28,42,28.85
+R2,210K 1%,TopLayer,R0603,42,74,270,Generic Resistor Package,42,74,42,74.85
+J3,QSE-020-01-L-D-A,TopLayer,SAMTEC_QSE-020-01-L-D-A,36,22,270,0.80 mm Q Strip High-Speed Ground Plane Socket Strip Check prices,36,22,33.1349,29.5999
+J2,ASP-134604-01,BottomLayer,SAMTEC_ASP-134604-01,12,46,90,CONN HDR 160POS SMD VITA 57.1 Check prices,12,46,15.175,70.765
+J1,QSE-020-01-L-D-A,TopLayer,SAMTEC_QSE-020-01-L-D-A,36,68,270,0.80 mm Q Strip High-Speed Ground Plane Socket Strip Check prices,36,68,33.1349,75.5999
+C9,100Nf,TopLayer,C0603,30,15.5,90,Capacitor - Generic,30,15.5,30,14.7
+C8,100Uf,TopLayer,C0603,28,15.5,90,Capacitor - Generic,28,15.5,28,14.7
+C7,100nF,TopLayer,C0603,42,16,90,Capacitor - Generic,42,16,42,15.2
+C6,100nF 10V,TopLayer,C0603,42,31.5,270,Capacitor - Generic,42,31.5,42,32.3
+C5,100Nf,TopLayer,C0603,30,61,90,Capacitor - Generic,30,61,30,60.2
+C4,100Uf,TopLayer,C0603,28,61,90,Capacitor - Generic,28,61,28,60.2
+C3,100nF,TopLayer,C0603,41.75,61,90,Capacitor - Generic,41.75,61,41.75,60.2
+C2,100nF 10V,TopLayer,C0603,44,74,90,Capacitor - Generic,44,74,44,73.2
